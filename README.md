@@ -1,3 +1,3 @@
 # Simple Rain Unity
 
-[cover](./cover.png)
+![cover](./cover.png)
